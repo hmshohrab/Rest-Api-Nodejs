@@ -69,7 +69,7 @@ The global logic for an app calling this rest API :
 #### Endpoints for the authentification
 
 //Rest api client
-<a href="Endpoints File">https://raw.githubusercontent.com/hmshohrab/Rest-Api-Nodejs/master/ApiReq.http</a>
+<a href="https://raw.githubusercontent.com/hmshohrab/Rest-Api-Nodejs/master/ApiReq.http">Endpoints File</a>
 
 # Understanding the login logic
 
